@@ -1,0 +1,59 @@
+.div{
+    background-color: black;
+    height: 100px;
+    color: aquamarine;
+    font-size: larger;
+    display: flex;
+    justify-content: space-around;
+}
+
+.page{
+    color: coral;
+    align-items: center;
+    justify-content: center;
+    bottom: 0;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.linha{
+    background-color: aquamarine;
+    height: 5px;
+}
+
+#texto{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    width: 30%;
+    position: absolute;
+    color: white;
+}
+
+.imagem{
+    position: relative;
+}
+
+#image{
+    position: absolute;
+}
+
+.caixas{
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+    
+}
+
+.bloco{
+    background-color: rgb(218, 163, 143);
+    width:27%;
+    height: 700px;
+    justify-content: center;
+}
+
+.paragrafo{
+    font-size: x-large;
+    display: flex;
+    justify-content: space-around;
+}
